@@ -1,0 +1,11 @@
+id sex  tg
+1 Nam 1.1
+2  Nu 2.1
+3  Nu 0.8
+4 Nam 1.1
+5 Nam 2.1
+6  Nu 1.5
+7 Nam 2.6
+8 Nam 1.5
+9 Nam 5.4
+10  Nu 1.9
