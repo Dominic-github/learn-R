@@ -39,6 +39,7 @@ attach(pisa)
 n1 = lm(PV1SCIE ~ REGION, data = pisa)
 summary(n1)
 
+
 n2 = lm(PV1SCIE ~ AREA , data = pisa)
 summary(n2)
 
